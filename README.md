@@ -16,10 +16,8 @@
 </a>
 
 ### ☕ Get in touch
-- Gmail: <a href = "#">RohmaAli@gmail.com</a>
-- Medium: <a href = "https://medium.com/@RohmaAli">Usama Khan</a>
-- LinkedIn: <a href = "https://www.linkedin.com/in/RohmaAli/">RohmaAli</a>
-- Twitter: <a href = "https://twitter.com/SugarDaddyyy_69">fe@rLess_</a>
+- Gmail: <a href = "#">rohmaali03@gmail.com</a>
+- Medium: <a href = "https://medium.com/@rohmaali03">Rohma Ali</a>
 - Website: coming soon
 
 <br>
