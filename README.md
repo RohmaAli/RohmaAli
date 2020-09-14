@@ -7,12 +7,12 @@
 
 ### My latest projects
 
-<a href="https://github.com/RohmaAli/dad-jokes-app-using-next-js">
-  <img align="middle" src="https://github-readme-stats-sand-kappa.vercel.app/api/pin/?username=RohmaAli&repo=dad-jokes-app-using-next-js" alt="dad-jokes-app-using-next-js" />
+<a href="https://https://github.com/RohmaAli/EVENTOS">
+  <img align="middle" src="https://github-readme-stats-sand-kappa.vercel.app/api/pin/?username=RohmaAli&repo=EVENTOS" alt="eventos" />
 </a>
 
-<a href="https://github.com/RohmaAli/covid19tracker">
-  <img align="middle" src="https://github-readme-stats-sand-kappa.vercel.app/api/pin/?username=RohmaAli&repo=covid19tracker" alt="covid19tracker" />
+<a href="https://https://github.com/RohmaAli/four-card-feature-section-master">
+  <img align="middle" src="https://github-readme-stats-sand-kappa.vercel.app/api/pin/?username=RohmaAli&repo=four-card-feature-section-master" alt="four-card-feature-section-master" />
 </a>
 
 ### ☕ Get in touch
